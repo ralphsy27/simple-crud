@@ -8,6 +8,7 @@ requests = "*"
 fastapi = "*"
 uvicorn = "*"
 pydantic = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
