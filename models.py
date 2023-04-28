@@ -1,5 +1,4 @@
 #creating database model to represent db tables
-
 from sqlalchemy import Column, Integer, String
 from database import Base
 
